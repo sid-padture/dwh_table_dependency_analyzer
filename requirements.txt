@@ -1,0 +1,4 @@
+jupyter==1.0.0
+networkx==2.5
+pygraphviz==1.6
+sqlparse==0.4.1
